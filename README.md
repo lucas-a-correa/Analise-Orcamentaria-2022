@@ -115,3 +115,6 @@ Analisando os dados de créditos recebidos por meio de fontes secundárias, nota
 
 ## 5. Conclusão
 
+Com base nos dados analisados, podemos concluir que a execução orçamentária do 11° BPE foi satisfatória, atingindo as metas determinadas pelo Comando do Exército. Melhorias podem ser buscadas nos seguintes quesitos:
+1. Planejamento das aquisições: As despesas devem, na medida do possível, ser planejadas no exercício anterior, viabilizando a licitação com melhores propostas, o que reduziria os custos incorridos. A execução de empenhos de forma mais rápida também permite a fiscalização mais efetiva dos fornecedores em relação a atrasos, o que possibilita o redirecionamento de recursos empenhados com fornecedores que não entregassem o bem empenhado;
+2. Gerenciamento dos prazos: Tanto os prazos para empenho dos créditos quantoos prazos de entrega dos materiais devem ser geridos, buscando evitar o recolhimento de recursos, o que ocasiona uma perda de melhorias para o batalhão, bem como a inscrição de empenhos em restos a pagar, diminuindo o índice de liquidação.
