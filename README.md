@@ -47,7 +47,7 @@ As organizações militares recebem créditos de duas fontes principais: A Fonte
 
 ### Fonte Primária
 
-
+#### Crédito Recebido e Empenhado
 
 Conforme o gráfico acima, observamos que o 11° BPE recebeu no total mais de R$ 644 mil, com a grande maioria sendo descentralizada pelo Comando Logístico (COLOG) (76,75%), seguido pela Diretoria de Gestão Orçamentária (DGO) (15,51%), pelo Comando de Operações Terrestres (COER) (7,53%) e uma pequena parte do Departamento de Educação e Cultura (DECEx) (0,21%). O total empenhado representa o recurso que efetivamente foi empenhado, compondo 94,76% dos valores recebidos. O valor restante é composto tanto por valores residuais (pequenos valores que restam nas notas de crédito após a execução dos empenhos e que são recolhidos para redistribuição) quanto por valores recolhidos por não cumprimento de prazos ou por erros na descentralização. Esse valor foi executado em 94 empenhos, resultando em uma média de quase R$ 6.500,00 por empenho.
 
@@ -68,4 +68,47 @@ O COTER atende às necessidades de preparo e emprego da tropa. Isso engloba a ma
 
 
 
-Por fim, o crédito recebido pelo DECEx foi empregado em apenas um empenho, no valor de R$ 1,29 mil. O DECEx é responsável pelo atendimento de necessidades de ensino e culturais do Exército
+Por fim, o crédito recebido pelo DECEx foi empregado em apenas um empenho, no valor de R$ 1,29 mil. O DECEx é responsável pelo atendimento de necessidades de ensino e culturais do Exército. Como o 11° BPE não é uma instituição de ensino, não costuma receber créditos desse Órgão, sendo um crédito eventual que deve ter sido recebido por um motivo pontual.
+
+#### Liquidação e Pagamento
+
+Como explicado na introdução, a liquidação é o atestamento no sistema de que o material foi recebido nas condições previstas e que o pagamento pode ser realizado. Normalmente o prazo da entrega do bem empenhado e, portanto, da liquidação, é de 30 dias, exceto para casos de obras ou outros serviços que demandem mais tempo. A meta de prazo para o pagamento após a liquidação também é de 30 dias. Como meta total de execução anual, o percentual a ser atingido é de 80%, evitando-se a inscrição de despesas em Restos a Pagar para o exercício seguinte.
+
+
+
+No total podemos ver que foram atingidos 87,75% de liquidação e 86,04% de pagamento, acima da meta anual. Já no prazo para a liquidação temos uma média bem abaixo do esperado, com 82 dias para a entrega, chegando a um máximo de até 222 dias. Isso aponta uma necessidade de maior fiscalização e gestões para evitar atrasos que podem gerar maiores custos para a União. No pagamento observamos uma média acima do esperado, com 17 dias para a liquidação, e um máximo de 40 dias, apenas 10 dias além do limite, o que indica um bom controle nos pagamentos.
+
+
+
+Nas demonstrações por UGR vemos o mesmo padrão, com o atingimento das metas de porcentagens, altos atrasos na liquidação e pagamentos dentro do limite. A única exceção é o crédito recebido pelo DECEx, que não foi liquidado em 2022, e por se tratar de apenas um empenho, fica com uma porcentagem de 0%.
+
+#### Fluxo de Recursos
+
+
+
+Já na visualização dos recursos ao longo do ano, vemos que houve dois picos de recebimento de crédito, no início e no fim do ano. Esses picos são explicados pela rotina das aquisições na Adm. Pública. Os créditos são distribuídos no início do ano para que haja tempo hábil para a realização dos processos necessários de licitação, aquisição, liquidação e pagamento. Já no final do ano ocorre a redistribuição de créditos não utilizados de acordo com as necessidades da Força. Durante o ano são distribuídos os créditos de menor valor, normalmente destinados a vida vegetativa.
+Na visualização dos empenhos, liquidação e pagamentos, há uma maior concentração no final do ano. Isso se deve ao tempo necessário para o processo administrativo, como explicado anteriormente, mas também aponta um certo nível de falta de planejamento. Os créditos recebidos por uma organização militar normalmente são próximos ao longo dos anos, com exceções para situações excepcionais, como a pandemia do COVID-19 em 2020 e a Intervenção Federal no Rio de Janeiro em 2018. Isso permite o planejamento das despesas, com o início dos processos de lciitação no ano anterior ao efetivo recebimento do crédito. Como ainda assim vemos uma concentração no final do ano, podemos inferir que não está sendo realizado um planejamento efetivo, atrasando os empenho e, por consequência, as liquidações e pagamentos.
+
+### Fonte Secundária
+
+
+
+Neste gráfico estão evidenciados os créditos recebidos na fonte secundária. O Fundo do Exército (FEX) corresponde a 70,35% do valor,e é referente ao crédito gerado pela própria OM, com cessões de uso e Próprio Nacional (Moradia dos Militares). Já o crédito descentralizado pelo Departamento-Geral do Pessoal é responsável pelo atendimento das necessidades de saúde do Batalhão, sendo gerado, em parte, pelo atendimento médico e odontológico dos militares e seus dependentes. Por se tratar de um crédito de geração prórpria e utilizado para fins específicos, possui um valor inferios, totalizando R$ 111,28 Mil, com R$ 109,19 mil (98,12%) empenhados, em 42 empenhos, com uma média de R$ 2,6 mil.
+
+#### Crédito Recebido e Empenhado
+
+
+
+O crédito recebido pelo FEX totaliza R$ 78,28 mil, com 33 empenhos totalizando R$ 78,25 mil (99,96%) e uma média de R$ 2,37 Mil.
+Este crédito atende necessidades pontuais da OM, sendo solicitada juntamente com a fundamentação do pedido. Normalmente são utilizados para a manutenção das moradias dos militares ou das instalações da Unidade, bem como para o atendimento de necessidades que não conseguiram ser atendidas pelo crédito primário recebido.
+
+
+
+A descentralização do DGP totaliza R$ 33 mil, com 9 empenhos com um valor de R$ 30,93 mil (93,76%) e média de R$ 3,44 mil.
+Esse crédito visa atender a Seção de Saúde do Batalhão, com a aquisição de medicamentos e equipamentos, para viabilizar o atendimento médico e odontológico dos militares e seus dependentes.
+
+#### Liquidação e Pagamento
+
+
+
+Na demonstração das liquidações e pagamentos encontramos uma situação parecida com a fonte primária. As metas foram atingidas, com 85,78% de liquidação e 83,18% de pagamento, com altos atrasos na liquidação (Média de 68 dias) e pagamentos dentro do prazo
