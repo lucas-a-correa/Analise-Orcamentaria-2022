@@ -216,15 +216,63 @@ ne_167_df['UGR'] = ne_167_df['observacao'].apply(
 )
 
 #Lê as lista de NCs
-nc_160_df = pd.read_excel('/Creditos_160.xlsx')
+nc_160_df = pd.read_excel('Creditos_160.xlsx')
 nc_160_df = nc_160_df.rename(columns={'CREDITOS':'NR'})
-nc_167_df = pd.read_excel('/content/drive/MyDrive/EB/Creditos_167.xlsx')
+nc_167_df = pd.read_excel('Creditos_167.xlsx')
 nc_167_df = nc_167_df.rename(columns={'CREDITOS':'NR'})
 
 #Lê os dados das Notas de Créditos extraídos do Portal da Transparência
-credito_df = pd.read_csv('/content/drive/MyDrive/EB/Notas_de_Credito.csv')
+credito_df = pd.read_csv('Notas_de_Credito.csv')
 
-credito_df = credito_df[[
+#Separa as créditos por UG
+credito_160_df = credito_df.merge(nc_160_df,how='inner', on='NR')
+credito_160_df = credito_160_df[[
     'UGFAV', 'UGR', 'PTRES', 'ND', 'PI', 'DATA',
        'NR', 'VALOR', 'OBS'
 ]]
+credito_167_df = credito_df.merge(nc_167_df,how='inner', on='NR')
+credito_167_df = credito_167_df[[
+    'UGFAV', 'UGR', 'PTRES', 'ND', 'PI', 'DATA',
+       'NR', 'VALOR', 'OBS'
+]]
+
+#Define função para converter a UGR em texto
+def ugr_to_text(var: float):
+  ugr = ()
+  if var == 160073.0:
+    ugr = 'DGO'
+  elif var == 160503.0:
+    ugr = 'DECEX'
+  elif var == 160504.0:
+    ugr = 'COLOG'
+  elif var == 110407.0:
+    ugr = 'COLOG'
+  elif var == 160539.0:
+    ugr = 'COTER'
+  elif var == 0.0:
+    ugr = 'FEX'
+  elif var == 167505.0:
+    ugr = 'DGP'
+
+  return ugr
+
+#Aplica a função nos dataframes
+credito_160_df['UGR'] = credito_160_df['UGR'] .apply(lambda row: ugr_to_text(row))
+credito_167_df['UGR'] = credito_167_df['UGR'] .apply(lambda row: ugr_to_text(row))
+
+#Renomeia algumas das colunas para o padrão desejado
+credito_160_df = credito_160_df.rename(columns={
+    'UGFAV':'codigoUg','DATA':'data', 'NR': 'NC',
+    'VALOR':'valor', 'OBS':'observacao'
+})
+credito_167_df = credito_167_df.rename(columns={
+    'UGFAV':'codigoUg','DATA':'data', 'NR': 'NC',
+    'VALOR':'valor', 'OBS':'observacao'
+})
+
+#Salva os dados emuma planilha
+with pd.ExcelWriter("Planilha_Orcamentaria.xlsx") as writer:
+    ne_160_df.to_excel(writer, sheet_name="Empenhos-160297")
+    ne_167_df.to_excel(writer, sheet_name="Empenhos-167297")
+    credito_160_df.to_excel(writer, sheet_name="Creditos-160297")
+    credito_167_df.to_excel(writer, sheet_name="Creditos-167297")
