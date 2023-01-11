@@ -24,6 +24,21 @@ Nesse contexto, existem alguns documentos e definições importantes para a comp
 ## 3. Dados
 
 Os dados foram extraídos utilizando as APIs disponibilizada no [Portal da Transparência](https://api.portaldatransparencia.gov.br/swagger-ui.html) para consulta de documentos da despesa pública. O único dado externo utilizado foi uma lista com os empenhos realizados por esta Organização Militar.
+As APIs utilizadas para a extração necessitam de um cadastro no site do Portal da Transparência, que gera um token que foi utilizado no código, com o objetivo de limitar a utilização.
 
+```Python
+for emp in ne_160_list:
+    data = requests.get(
+    f'https://api.portaldatransparencia.gov.br/api-de-dados/despesas/documentos/16029700001{emp}',
+    headers={"chave-api-dados":token}
+    )
+    data_df = data.json()
+    data_df = pd.json_normalize(data_df)
+    ne_160_df = pd.concat([ne_160_df,data_df])
+```
+Essa API extrais os dados de uma base de dados que é atualizada diariamente, então existe um atraso de 24h para que novas informações sejam adicionadas.
+Friso que todas as informações apresentadas nesse projeto são abertas ao público e disponibilizadas pelo Governo Federal, conforme as leis de acesso à informação. O único dado externo ao Portal utilizado foi a lista de empenhos que procuramos.
 
- 
+## 4. Análise
+
+Os gráficos e visualizações utilizadas nesse relatório estão disponíveis no Dashboard disponibilizado [aqui](https://github.com/lucas-a-correa/Analise-Orcamentaria-2022/blob/main/An%C3%A1lise%20Or%C3%A7ament%C3%A1ria.pbix), e pode ser acompanhado interativamente em conjunto.
