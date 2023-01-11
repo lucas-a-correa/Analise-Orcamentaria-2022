@@ -49,66 +49,69 @@ As organizações militares recebem créditos de duas fontes principais: A Fonte
 
 #### Crédito Recebido e Empenhado
 
-Conforme o gráfico acima, observamos que o 11° BPE recebeu no total mais de R$ 644 mil, com a grande maioria sendo descentralizada pelo Comando Logístico (COLOG) (76,75%), seguido pela Diretoria de Gestão Orçamentária (DGO) (15,51%), pelo Comando de Operações Terrestres (COER) (7,53%) e uma pequena parte do Departamento de Educação e Cultura (DECEx) (0,21%). O total empenhado representa o recurso que efetivamente foi empenhado, compondo 94,76% dos valores recebidos. O valor restante é composto tanto por valores residuais (pequenos valores que restam nas notas de crédito após a execução dos empenhos e que são recolhidos para redistribuição) quanto por valores recolhidos por não cumprimento de prazos ou por erros na descentralização. Esse valor foi executado em 94 empenhos, resultando em uma média de quase R$ 6.500,00 por empenho.
+![Image](/Charts/Recursos_Recebidos_Primária_Geral.PNG)
 
+O gráfico ilustra que o 11° BPE recebeu um montante superior a R$644 mil, tendo a maior proporção desses recursos (76.75%) sido descentralizada pelo Comando Logístico (COLOG), seguido pelo Diretoria de Gestão Orçamentária (DGO) (15.51%), o Comando de Operações Terrestres (COTER) (7.53%) e uma proporção insignificante pelo Departamento de Educação e Cultura (DECEx) (0.21%). O valor empenhado representa aquele que foi efetivamente comprometido, representando 94.76% dos recursos recebidos. O valor remanescente é constituído tanto por valores residuais (montantes reduzidos que permanecem nas notas de crédito após a execução dos empenhos e que são recolhidos para redistribuição) quanto por valores que foram recolhidos devido a descumprimento de prazos ou erros na descentralização. Esse montante foi executado em 94 empenhos, tendo média de quase R$6,500.00 por empenho.
 
+![Image](/Charts/Recursos_Recebidos_Det_Primária.PNG)
 
-Os empenhos com os créditos recebidos pelo COLOG somam um total de R$ 455,41 mil, distribuídos em 33 empenhos, com uma média de R$ 13,8 mil, e um percentual de empenho de 92,05%.
-Os créditos distribuídos pelo COLOG são destinados para a aquisição de uniformes e equipamentos da tropa, peças e manutenção de veículos e alimentação e medicamentos para os animais da Organização Militar. O 11° BPE é um batalhão com uma realidade diferente de OMs ordinárias do exército, realizando o policiamento e o controle de trânsito da Vila Militar - RJ, bem como possuindo uma Seção de Cães de Guerra para apoio no policiamento e missões de farejamento de drogas, bombas e armamento. Todas essas missões exigem equipamento diferenciado, bem como a manutenção constante dos animais e viaturas, o que explica a proporção dos créditos recebidos.
+O montante de recursos financeiros referentes ao COLOG atingiu a cifra de R$ 455,41 mil, distribuídos por meio de 33 empenhos, com um valor médio de R$ 13,8 mil e um índice de empenho de 92,05%. Estes créditos são destinados para suprir as necessidades de aquisição de uniformes e equipamentos para a tropa, peças e manutenção dos veículos, além da alimentação e medicamentos para os animais empregados pelo Batalhão. O 11° BPE é uma unidade com características distintas em relação às Organizações Militares tradicionais do exército, realizando tarefas de policiamento e controle de trânsito na Vila Militar - RJ, além de possuir uma seção especializada em cães de guerra para apoio em operações de busca por drogas, explosivos e armamentos. Essas atividades específicas justificam a proporção dos recursos financeiros que são recebidos.
 
+Os recursos orçamentários relacionadas à DGO apresentam um montante total de R$ 97,51 mil, sendo distribuídas por meio de 47 empenhos, com uma média de R$ 2,07 mil por empenho, e um índice de comprometimento de 97,51%. A DGO é responsável por suprir as necessidades relacionadas aos aspectos vegetativos da Organização Militar, como materiais de uso administrativo, itens de limpeza e serviços de manutenção de equipamentos. O 11° BPE, atualmente, conta com um contingente de aproximadamente 500 militares, o que requer um elevado grau de planejamento para garantir que os recursos financeiros sejam destinados de forma adequada a atender às necessidades do Batalhão.
 
+Os créditos empenhados com o valor recebido pelo COTER são de um total de R$ 21,64 mil, em 12 empenhos, com uma média de R$ 1,8 mil, e um percentual de 44,57%. É importante investigar as causas que levaram a esse baixo percentual de empenho, seja devido a problemas na execução de prazos pelo setor administrativo ou devido a ajustes necessários nas distribuições financeiras.
+O COTER é responsável por atender às necessidades de preparo e emprego da tropa, incluindo a manutenção das instalações utilizadas na formação anual de novos soldados, materiais de instrução e equipamentos empregados em missões. Como uma unidade altamente operacional e com operações diárias, é vital realizar uma análise sobre a adequação dos recursos financeiros às necessidades do Batalhão e como isso impacta na execução das missões.
 
-Os empenhos referentes à DGO somam R$ 97,51 mil, em 47 empenhos, e uma média de R$ 2,07 mil por empenho, atingindo um percentual de 97,51% de empenho. 
-A DGO atende as necessidades vegetativas da OM, como materiais de uso administrativo e materiais para limpeza, bem como serviços de manutenção de aparelhos da Unidade. O 11° BPE, atualmente, é composto por um efetivo de cerca de 500 militares, o que exige um alto nível de planejamento para que esse crédito atenda todas as necessidades do Batalhão.
-
-
-
-Os créditos empenhados com o valor recebido pelo COTER são de um total de R$ 21,64 mil, em 12 empenhos, com uma média de R$ 1,8 mil, e um percentual de 44,57%. É importante verificar quais os motivos para um percentual de empenho tão baixo, se houve problemas no cumprimento de prazos pela equipe administrativa, ou se são referentes a recolhimentos por erro nas distribuições.
-O COTER atende às necessidades de preparo e emprego da tropa. Isso engloba a manutenção de instalações para a formação anual de novos soldados, materiais utilizados nas instruções e equipamentos empregados em missões. Como um Batalhão altamente operacional e que é empregado diariamente é importante realizar um levantamento do atendimento das necessidades pelo crédito recebido e como isso está afetando o efetivo cumprimento de missões.
-
-
-
-Por fim, o crédito recebido pelo DECEx foi empregado em apenas um empenho, no valor de R$ 1,29 mil. O DECEx é responsável pelo atendimento de necessidades de ensino e culturais do Exército. Como o 11° BPE não é uma instituição de ensino, não costuma receber créditos desse Órgão, sendo um crédito eventual que deve ter sido recebido por um motivo pontual.
+Finalmente, a Dotação Financeira recebido do DECEx foi aplicada em apenas um empenho, com o valor de R$ 1,29 mil. O DECEx é o órgão responsável por suprir as necessidades educacionais e culturais do Exército. Como o 11° BPE não é uma instituição de ensino é pouco comum o recebimento de dotações financeiras deste órgão.Dessa forma, é provável que se trate de crédito eventual, sido recebido por um motivo pontual.
 
 #### Liquidação e Pagamento
 
-Como explicado na introdução, a liquidação é o atestamento no sistema de que o material foi recebido nas condições previstas e que o pagamento pode ser realizado. Normalmente o prazo da entrega do bem empenhado e, portanto, da liquidação, é de 30 dias, exceto para casos de obras ou outros serviços que demandem mais tempo. A meta de prazo para o pagamento após a liquidação também é de 30 dias. Como meta total de execução anual, o percentual a ser atingido é de 80%, evitando-se a inscrição de despesas em Restos a Pagar para o exercício seguinte.
+A liquidação, como foi mencionado anteriormente, é o formal reconhecimento no sistema que o bem adquirido foi recebido e está em condições adequadas para que o pagamento seja realizado. É comum que o prazo para o recebimento e liquidação seja de 30 dias, com exceção para casos específicos, tais como obras ou serviços que requeiram um período de tempo superior. Além disso, a meta estabelecida para o pagamento após a liquidação também é de 30 dias. É importante ressaltar que a meta estabelecida anualmente para a execução é de 80%, com o objetivo de evitar inscrição de despesas em Restos a Pagar para o exercício seguinte.
 
+![Image](/Charts/Liq_Pag_Primária_Geral.PNG)
 
+É evidente que os índices alcançados foram satisfatórios, pois tivemos um alcance acima da meta estabelecida, com 87,75% de liquidação e 86,04% de pagamento.  No entanto, é preciso mencionar que o prazo para a liquidação foi significativamente inferior ao esperado, com uma média de 82 dias e um máximo alarmante de 222 dias. Isso sugere que precisamos redobrar os esforços para melhorar a fiscalização e a gestão, a fim de evitar atrasos que possam gerar desnecessários encargos para a União. No pagamento observamos uma média acima do esperado, com 17 dias para a liquidação, e um máximo de 40 dias, apenas 10 dias além do limite,  o que é indicativo de um controle financeiro satisfatório.
 
-No total podemos ver que foram atingidos 87,75% de liquidação e 86,04% de pagamento, acima da meta anual. Já no prazo para a liquidação temos uma média bem abaixo do esperado, com 82 dias para a entrega, chegando a um máximo de até 222 dias. Isso aponta uma necessidade de maior fiscalização e gestões para evitar atrasos que podem gerar maiores custos para a União. No pagamento observamos uma média acima do esperado, com 17 dias para a liquidação, e um máximo de 40 dias, apenas 10 dias além do limite, o que indica um bom controle nos pagamentos.
+![image](/Charts/Liq_Pag_Det_Primária.PNG)
 
-
-
-Nas demonstrações por UGR vemos o mesmo padrão, com o atingimento das metas de porcentagens, altos atrasos na liquidação e pagamentos dentro do limite. A única exceção é o crédito recebido pelo DECEx, que não foi liquidado em 2022, e por se tratar de apenas um empenho, fica com uma porcentagem de 0%.
+Nas demonstrações por UGR vemos o mesmo padrão, com alcance das metas de porcentagem, atrasos significativos na liquidação e pagamentos dentro do prazo estipulado. A única exceção é o crédito recebido pelo DECEx, que não foi liquidado em 2022, e por se tratar de apenas um empenho, apresentando com uma porcentagem de 0%.
 
 #### Fluxo de Recursos
 
+![image](/Charts/Fluxo_Desp_Primária.PNG)
 
-
-Já na visualização dos recursos ao longo do ano, vemos que houve dois picos de recebimento de crédito, no início e no fim do ano. Esses picos são explicados pela rotina das aquisições na Adm. Pública. Os créditos são distribuídos no início do ano para que haja tempo hábil para a realização dos processos necessários de licitação, aquisição, liquidação e pagamento. Já no final do ano ocorre a redistribuição de créditos não utilizados de acordo com as necessidades da Força. Durante o ano são distribuídos os créditos de menor valor, normalmente destinados a vida vegetativa.
-Na visualização dos empenhos, liquidação e pagamentos, há uma maior concentração no final do ano. Isso se deve ao tempo necessário para o processo administrativo, como explicado anteriormente, mas também aponta um certo nível de falta de planejamento. Os créditos recebidos por uma organização militar normalmente são próximos ao longo dos anos, com exceções para situações excepcionais, como a pandemia do COVID-19 em 2020 e a Intervenção Federal no Rio de Janeiro em 2018. Isso permite o planejamento das despesas, com o início dos processos de lciitação no ano anterior ao efetivo recebimento do crédito. Como ainda assim vemos uma concentração no final do ano, podemos inferir que não está sendo realizado um planejamento efetivo, atrasando os empenho e, por consequência, as liquidações e pagamentos.
+Analisando os dados financeiros ao longo do ano, podemos observar a presença de dois picos de recebimento de créditos, no início e no final do ano. Essa distribuição tem relação com a rotina de aquisições na Administração Pública. Os créditos são distribuídos no início do ano para que haja tempo hábil para os processos de licitação, aquisição, liquidação e pagamento. No final do ano, é comum haver redistribuição de créditos não utilizados, de acordo com as necessidades da Força. É importante mencionar que durante o ano são distribuídos créditos de menor valor, normalmente destinados à "vida vegetativa" da organização militar.
+Na análise dos empenhos, liquidações e pagamentos, notamos uma maior concentração no final do ano. Isso se deve, em parte, ao tempo necessário para os processos administrativos, como mencionado anteriormente, mas também pode ser sinal de falta de planejamento. Normalmente, os créditos recebidos por uma organização militar são semelhantes ao longo dos anos, exceto em situações específicas, como a pandemia de COVID-19 em 2020 ou a Intervenção Federal no Rio de Janeiro em 2018. Isso permite o planejamento das despesas, com o início dos processos de lciitação no ano anterior ao efetivo recebimento do crédito. Como ainda assim vemos uma concentração no final do ano, podemos inferir que não está sendo realizado um planejamento efetivo, atrasando os empenho e, por consequência, as liquidações e pagamentos.
 
 ### Fonte Secundária
 
+![image](/Charts/Recursos_Recebidos_Secundária_Geral.PNG)
 
-
-Neste gráfico estão evidenciados os créditos recebidos na fonte secundária. O Fundo do Exército (FEX) corresponde a 70,35% do valor,e é referente ao crédito gerado pela própria OM, com cessões de uso e Próprio Nacional (Moradia dos Militares). Já o crédito descentralizado pelo Departamento-Geral do Pessoal é responsável pelo atendimento das necessidades de saúde do Batalhão, sendo gerado, em parte, pelo atendimento médico e odontológico dos militares e seus dependentes. Por se tratar de um crédito de geração prórpria e utilizado para fins específicos, possui um valor inferios, totalizando R$ 111,28 Mil, com R$ 109,19 mil (98,12%) empenhados, em 42 empenhos, com uma média de R$ 2,6 mil.
+Este gráfico nos mostra os créditos recebidos na fonte secundária. O Departamento-Geral do Pessoal (DGP) corresponde a 70,35% do valor,e é referente ao crédito destinado ao atendimento de saúde e odontológico, dos militares e seus dependentes. Já o crédito descentralizado pelo Fundo do Exército (FEX) é gerado pela própria OM, com cessões de uso e Próprio Nacional (Moradia dos Militares). Por se tratar de um crédito de geração prórpria e utilizado para fins específicos, possui um valor inferios, totalizando R$ 111,28 Mil, com R$ 109,19 mil (98,12%) empenhados, em 42 empenhos, com uma média de R$ 2,6 mil.
 
 #### Crédito Recebido e Empenhado
 
+![image](/Charts/Recursos_Recebidos_Det_Secundária.PNG)
 
-
-O crédito recebido pelo FEX totaliza R$ 78,28 mil, com 33 empenhos totalizando R$ 78,25 mil (99,96%) e uma média de R$ 2,37 Mil.
-Este crédito atende necessidades pontuais da OM, sendo solicitada juntamente com a fundamentação do pedido. Normalmente são utilizados para a manutenção das moradias dos militares ou das instalações da Unidade, bem como para o atendimento de necessidades que não conseguiram ser atendidas pelo crédito primário recebido.
-
-
-
-A descentralização do DGP totaliza R$ 33 mil, com 9 empenhos com um valor de R$ 30,93 mil (93,76%) e média de R$ 3,44 mil.
+A descentralização do DGP totaliza R$ 78,28 mil, com 33 empenhos totalizando R$ 78,25 mil (99,96%) e uma média de R$ 2,37 Mil.
 Esse crédito visa atender a Seção de Saúde do Batalhão, com a aquisição de medicamentos e equipamentos, para viabilizar o atendimento médico e odontológico dos militares e seus dependentes.
+
+O crédito recebido pelo FEX totaliza R$ 33 mil, com 9 empenhos com um valor de R$ 30,93 mil (93,76%) e média de R$ 3,44 mil.
+Este crédito atende necessidades pontuais da OM, sendo solicitada juntamente com a fundamentação do pedido. Normalmente são utilizados para a manutenção das moradias dos militares ou das instalações da Unidade, bem como para o atendimento de necessidades que não conseguiram ser atendidas pelo crédito primário recebido.
 
 #### Liquidação e Pagamento
 
+![image](/Charts/Liq_Pag_Secundária_Geral.PNG)
 
+Na demonstração das liquidações e pagamentos encontramos uma situação parecida com a fonte primária. As metas foram atingidas, com 85,78% de liquidação e 83,18% de pagamento, com altos atrasos na liquidação (Média de 68 dias) e pagamentos dentro do prazo, situação que é refletida nos créditos detalhados das UGR.
 
-Na demonstração das liquidações e pagamentos encontramos uma situação parecida com a fonte primária. As metas foram atingidas, com 85,78% de liquidação e 83,18% de pagamento, com altos atrasos na liquidação (Média de 68 dias) e pagamentos dentro do prazo
+![image](/Charts/Liq_Pag_Det_Secundária.PNG)
+
+#### Fluxo de Recursos
+
+![image](/Charts/Fluxo_Desp_Secundária.PNG)
+
+Analisando os dados de créditos recebidos por meio de fontes secundárias, notamos um padrão distinto em comparação com as fontes primárias. O pico de recebimento de créditos ocorre no início do ano, bem como o de empenhos.  Isso sugere um planejamento mais eficiente das aquisições realizado pelos setores responsáveis. As liquidações e pagamentos acontecem durante o ano, o que é esperado pelos prazos e ciclo empenho-recebimento-pagamento das fases da despesa.
+
+## 5. Conclusão
+
